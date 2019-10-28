@@ -5,6 +5,7 @@
 }
 
 body{
+  background-image: url("./images/back.jpg");
   background-color: #000000;
   font-family: 'Gloria Hallelujah',
   cursive;
